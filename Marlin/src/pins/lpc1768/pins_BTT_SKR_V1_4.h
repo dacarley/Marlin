@@ -50,6 +50,8 @@
 #define E0_DIAG_PIN                        P1_26  // E0DET
 #define E1_DIAG_PIN                        P1_25  // E1DET
 
+#define Z_MAX_PIN							P1_00 // PWRDET
+
 //
 // Limit Switches
 //
